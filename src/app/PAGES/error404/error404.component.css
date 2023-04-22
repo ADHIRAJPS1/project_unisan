@@ -1,0 +1,13 @@
+.bg-c-b{
+    background-color: #263761;
+}
+*{
+    font-family: 'Verdana', 'Geneva' , 'Tahoma', 'sans-serif';
+}
+a{
+    text-decoration: none;
+}
+.hp-btn{
+    font-size: 28px;
+    /* border: grey solid 2px; */
+}

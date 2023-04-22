@@ -1,0 +1,12 @@
+.footer{
+    background-color: #263761;;
+    color: white;
+}
+
+li>a{
+    text-decoration: none;
+    color: white;
+}
+a{
+    color: yellow;
+}

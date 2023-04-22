@@ -1,0 +1,16 @@
+.bg-c-b{
+    background-color: #263761;
+}
+
+.card-header{
+    height: 300px;
+    border-radius: 20%;
+}
+.card{
+    border: none;
+    box-shadow: 0 0 10px grey;
+}
+
+.card:hover{
+    box-shadow: 0 0 20px grey;
+}
